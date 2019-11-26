@@ -20,4 +20,5 @@ class superman{
 
 for n in 1...100{
     print(n)
+    print(n+1)
 }
